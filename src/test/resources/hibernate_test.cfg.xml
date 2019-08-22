@@ -10,9 +10,9 @@
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
 		<!--<property name="hibernate.connection.url">jdbc:jtds:sqlserver://streamer2005.softserveinc.com/_055_OMS_test;instance=tc;</property>-->
-		<property name="hibernate.connection.url">jdbc:mysql://10.26.34.238:3306/lv316oms</property>
-		<property name="hibernate.connection.username">root</property>
-		<property name="hibernate.connection.password">135790</property>
+		<property name="hibernate.connection.url">jdbc:mysql://10.26.34.147:3306/db4test</property>
+		<property name="hibernate.connection.username">oms</property>
+		<property name="hibernate.connection.password">pornhub</property>
 
 		<property name="hibernate.hbm2ddl.auto">create-drop</property>
 
